@@ -1,7 +1,6 @@
 Day-1 22.03.26
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1956900149/
 <img width="1867" height="970" alt="image" src="https://github.com/user-attachments/assets/5acfc997-7105-46f5-8ad6-3710866c325c" />
-<img width="1867" height="970" alt="image" src="https://github.com/user-attachments/assets/afacae5b-f9af-4068-b0bd-0f831a19674f" />
 
 DAY2
 https://leetcode.com/problems/two-sum/submissions/1956848470/
