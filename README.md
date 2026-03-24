@@ -11,3 +11,5 @@ https://leetcode.com/problems/subarray-sum-equals-k/description/
 DAY3
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1958043795/
 <img width="1876" height="962" alt="image" src="https://github.com/user-attachments/assets/148705a4-b550-4b7e-a1c1-353e836963fd" />
+https://leetcode.com/problems/sort-colors/submissions/1958050499/
+<img width="1864" height="966" alt="image" src="https://github.com/user-attachments/assets/36e33e3b-3a57-4994-81df-e2e46bba6175" />
