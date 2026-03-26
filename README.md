@@ -13,3 +13,13 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/195804
 <img width="1876" height="962" alt="image" src="https://github.com/user-attachments/assets/148705a4-b550-4b7e-a1c1-353e836963fd" />
 https://leetcode.com/problems/sort-colors/submissions/1958050499/
 <img width="1864" height="966" alt="image" src="https://github.com/user-attachments/assets/36e33e3b-3a57-4994-81df-e2e46bba6175" />
+
+DAY4
+https://leetcode.com/problems/missing-number/submissions/1959488774/
+<img width="1591" height="771" alt="image" src="https://github.com/user-attachments/assets/04f19070-bb05-4a2a-85b5-d221271c497c" />
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1959525144/
+<img width="1569" height="836" alt="image" src="https://github.com/user-attachments/assets/02c6fbb5-7176-4784-8a51-5fa781983792" />
+
+DAY5
+https://leetcode.com/problems/move-zeroes/submissions/1959507171/
+<img width="1473" height="686" alt="image" src="https://github.com/user-attachments/assets/2ea5e1e6-3b81-45ef-91de-c7262e9ff42c" />
