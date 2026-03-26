@@ -23,3 +23,5 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/19595
 DAY5
 https://leetcode.com/problems/move-zeroes/submissions/1959507171/
 <img width="1473" height="686" alt="image" src="https://github.com/user-attachments/assets/2ea5e1e6-3b81-45ef-91de-c7262e9ff42c" />
+https://leetcode.com/problems/product-of-array-except-self/
+<img width="1525" height="702" alt="image" src="https://github.com/user-attachments/assets/14320c1f-df31-4bfb-b646-340fcc9a1cfc" />
