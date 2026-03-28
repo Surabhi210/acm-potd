@@ -25,3 +25,6 @@ https://leetcode.com/problems/move-zeroes/submissions/1959507171/
 <img width="1473" height="686" alt="image" src="https://github.com/user-attachments/assets/2ea5e1e6-3b81-45ef-91de-c7262e9ff42c" />
 https://leetcode.com/problems/product-of-array-except-self/
 <img width="1525" height="702" alt="image" src="https://github.com/user-attachments/assets/14320c1f-df31-4bfb-b646-340fcc9a1cfc" />
+
+DAY6
+<img width="1545" height="560" alt="image" src="https://github.com/user-attachments/assets/02d775fc-d016-48b8-9bad-456571e916d6" />
