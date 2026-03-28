@@ -28,3 +28,7 @@ https://leetcode.com/problems/product-of-array-except-self/
 
 DAY6
 <img width="1545" height="560" alt="image" src="https://github.com/user-attachments/assets/02d775fc-d016-48b8-9bad-456571e916d6" />
+
+DAY7
+https://leetcode.com/problems/rotate-array/
+<img width="1461" height="661" alt="image" src="https://github.com/user-attachments/assets/bb56b76b-5a69-46f8-a704-bec759e85fd9" />
