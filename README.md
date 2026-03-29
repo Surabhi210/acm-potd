@@ -32,3 +32,7 @@ DAY6
 DAY7
 https://leetcode.com/problems/rotate-array/
 <img width="1461" height="661" alt="image" src="https://github.com/user-attachments/assets/bb56b76b-5a69-46f8-a704-bec759e85fd9" />
+
+DAY8
+https://leetcode.com/problems/reverse-linked-list/submissions/1963150830/
+<img width="1654" height="681" alt="image" src="https://github.com/user-attachments/assets/2b733e2d-4768-4970-b4b6-39eea68709ec" />
