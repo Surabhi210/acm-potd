@@ -39,3 +39,7 @@ https://leetcode.com/problems/reverse-linked-list/submissions/1963150830/
 
 DAY9
 <img width="1784" height="842" alt="image" src="https://github.com/user-attachments/assets/8d444050-c86c-4fd8-b27c-78d506c946b3" />
+
+DAY10
+https://leetcode.com/problems/middle-of-the-linked-list/submissions/1965128885/
+<img width="1661" height="719" alt="image" src="https://github.com/user-attachments/assets/6d85a0c0-e3bf-4a39-a1b6-efbb6117aa23" />
