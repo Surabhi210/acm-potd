@@ -47,3 +47,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/submissions/1965128885/
 DAY11
 https://leetcode.com/problems/merge-two-sorted-lists/submissions/1966073776/
 <img width="1618" height="686" alt="image" src="https://github.com/user-attachments/assets/1698d217-1d15-419e-a146-157f3f5fe560" />
+
+DAY12
+<img width="1765" height="720" alt="image" src="https://github.com/user-attachments/assets/f90ebf5a-ae36-4185-9ad3-faa478c65d78" />
+
+DAY13
+
