@@ -60,3 +60,10 @@ DAY14
 DAY15
 https://leetcode.com/problems/valid-parentheses/submissions/1969908542/
 <img width="1917" height="740" alt="image" src="https://github.com/user-attachments/assets/9757ba7c-8594-4f4b-99b9-07506150343b" />
+
+DAY16
+<img width="1645" height="769" alt="image" src="https://github.com/user-attachments/assets/d1be844c-12a8-4cc3-8fb4-2b6a4bf481e2" />
+
+DAY17
+https://leetcode.com/problems/implement-stack-using-queues/submissions/1971186398/
+<img width="1639" height="713" alt="image" src="https://github.com/user-attachments/assets/d1ea6e27-4d6e-4970-a363-9879f18e437f" />
