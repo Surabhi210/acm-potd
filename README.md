@@ -71,3 +71,10 @@ https://leetcode.com/problems/implement-stack-using-queues/submissions/197118639
 DDAY18
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1972348335/
 <img width="1555" height="707" alt="image" src="https://github.com/user-attachments/assets/f2585cbb-8692-48b3-af0f-670385062a67" />
+
+DAY19
+<img width="1654" height="751" alt="image" src="https://github.com/user-attachments/assets/adb081a0-1a73-4451-8c83-81a6f14bc996" />
+
+DAY20
+https://leetcode.com/problems/remove-outermost-parentheses/submissions/1974150566/
+<img width="1623" height="821" alt="image" src="https://github.com/user-attachments/assets/6881a4b0-681b-4cd3-ba9f-6b01f4457600" />
