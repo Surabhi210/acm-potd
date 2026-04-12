@@ -82,3 +82,7 @@ https://leetcode.com/problems/remove-outermost-parentheses/submissions/197415056
 DAY21
 https://leetcode.com/problems/make-the-string-great/submissions/1975224305/
 <img width="1649" height="561" alt="image" src="https://github.com/user-attachments/assets/74fdd821-0603-4928-ae2a-0f057d839a19" />
+
+DAY22
+<img width="1876" height="842" alt="image" src="https://github.com/user-attachments/assets/589a7b87-5aff-4e2b-89ce-333e404382f3" />
+
