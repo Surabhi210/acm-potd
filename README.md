@@ -86,3 +86,6 @@ https://leetcode.com/problems/make-the-string-great/submissions/1975224305/
 DAY22
 <img width="1876" height="842" alt="image" src="https://github.com/user-attachments/assets/589a7b87-5aff-4e2b-89ce-333e404382f3" />
 
+DAY23
+https://leetcode.com/problems/find-the-town-judge/submissions/1977249289/
+<img width="1669" height="592" alt="image" src="https://github.com/user-attachments/assets/cbb58c9e-5e34-45e7-a9a9-d1b095c4df62" />
