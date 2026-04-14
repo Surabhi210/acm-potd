@@ -89,3 +89,6 @@ DAY22
 DAY23
 https://leetcode.com/problems/find-the-town-judge/submissions/1977249289/
 <img width="1669" height="592" alt="image" src="https://github.com/user-attachments/assets/cbb58c9e-5e34-45e7-a9a9-d1b095c4df62" />
+
+DAY24
+<img width="1600" height="544" alt="image" src="https://github.com/user-attachments/assets/a38bf5eb-e5d2-4583-a875-6a0fe68002a6" />
