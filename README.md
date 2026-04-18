@@ -103,4 +103,5 @@ DAY27
 <img width="1645" height="633" alt="image" src="https://github.com/user-attachments/assets/75426950-7f75-450a-913b-302e9ed1ff12" />
 
 DAY28
+<img width="1841" height="593" alt="image" src="https://github.com/user-attachments/assets/4f320551-2ae2-4235-8003-d95732e44b5f" />
 
