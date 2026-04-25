@@ -121,3 +121,4 @@ DAY33
 <img width="1578" height="609" alt="image" src="https://github.com/user-attachments/assets/982b4029-103b-49aa-bd0e-c0360c6c7b8b" />
 
 DAY34
+<img width="1561" height="614" alt="image" src="https://github.com/user-attachments/assets/d6e6d149-6427-46f0-84cf-aba612e708aa" />
